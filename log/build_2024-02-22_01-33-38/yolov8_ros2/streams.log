@@ -1,0 +1,26 @@
+[0.849s] Invoking command in '/home/ano/Documents/yolov8_ros2/src/yolov8_ros2': PYTHONPATH=/home/ano/Documents/yolov8_ros2/build/yolov8_ros2/prefix_override:/home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/yolov8_ros2 build --build-base /home/ano/Documents/yolov8_ros2/build/yolov8_ros2/build install --record /home/ano/Documents/yolov8_ros2/build/yolov8_ros2/install.log --single-version-externally-managed
+[1.123s] running egg_info
+[1.124s] writing ../../build/yolov8_ros2/yolov8_ros2.egg-info/PKG-INFO
+[1.124s] writing dependency_links to ../../build/yolov8_ros2/yolov8_ros2.egg-info/dependency_links.txt
+[1.124s] writing entry points to ../../build/yolov8_ros2/yolov8_ros2.egg-info/entry_points.txt
+[1.124s] writing requirements to ../../build/yolov8_ros2/yolov8_ros2.egg-info/requires.txt
+[1.125s] writing top-level names to ../../build/yolov8_ros2/yolov8_ros2.egg-info/top_level.txt
+[1.126s] reading manifest file '../../build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+[1.127s] writing manifest file '../../build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+[1.128s] running build
+[1.128s] running build_py
+[1.128s] copying yolov8_ros2/detect.py -> /home/ano/Documents/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[1.128s] running install
+[1.128s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.128s]   warnings.warn(
+[1.128s] running install_lib
+[1.129s] copying /home/ano/Documents/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/detect.py -> /home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[1.130s] byte-compiling /home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/detect.py to detect.cpython-310.pyc
+[1.130s] running install_data
+[1.131s] running install_egg_info
+[1.132s] removing '/home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.133s] Copying ../../build/yolov8_ros2/yolov8_ros2.egg-info to /home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2-0.0.0-py3.10.egg-info
+[1.133s] running install_scripts
+[1.153s] Installing detect script to /home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/yolov8_ros2
+[1.153s] writing list of installed files to '/home/ano/Documents/yolov8_ros2/build/yolov8_ros2/install.log'
+[1.172s] Invoked command in '/home/ano/Documents/yolov8_ros2/src/yolov8_ros2' returned '0': PYTHONPATH=/home/ano/Documents/yolov8_ros2/build/yolov8_ros2/prefix_override:/home/ano/Documents/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/yolov8_ros2 build --build-base /home/ano/Documents/yolov8_ros2/build/yolov8_ros2/build install --record /home/ano/Documents/yolov8_ros2/build/yolov8_ros2/install.log --single-version-externally-managed

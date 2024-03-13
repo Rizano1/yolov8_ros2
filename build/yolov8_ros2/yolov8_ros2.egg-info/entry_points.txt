@@ -1,0 +1,3 @@
+[console_scripts]
+detect = yolov8_ros2.detect:main
+
